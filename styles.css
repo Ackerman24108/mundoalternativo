@@ -1,0 +1,19 @@
+* h1 {
+  color: white;
+  font-size: 30px;
+  background-color: black;
+}
+/* Largura em pixels */
+.largura-px {
+  width: 200px;
+}
+
+/* Largura em ems */
+.largura-em {
+  width: 20em;
+}
+
+/* Largura em porcentagem */
+.porcentagem {
+  width: 75%;
+}
